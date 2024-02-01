@@ -10,9 +10,9 @@ This project showcases a dynamic and immersive scene featuring realistic Molotov
 
 ## YouTube Video
 
-Explore the development process and behind-the-scenes on our YouTube channel: [GameDev Explorers](https://www.youtube.com/c/gamedevexplorers)
+Explore the development process and behind-the-scenes on our YouTube channel: [GW TUTS](https://youtu.be/alQTw0dz1qo)
 
-**YouTube Playlist:** [Complete tutorial for Realistic Molotov and Fire project](your_playlist_link)
+**YouTube Playlist:** [Complete tutorial for Realistic Molotov and Fire project](https://youtu.be/alQTw0dz1qo)
 
 ## Scene Highlights
 
